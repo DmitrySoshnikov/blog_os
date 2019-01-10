@@ -41,6 +41,7 @@ The goal of this project is to provide step-by-step tutorials in individual blog
 ### Memory Management
 
 - [Introduction to Paging](https://os.phil-opp.com/paging-introduction/)
+- [Advanced Paging](https://os.phil-opp.com/advanced-paging/)
 
 
 ## First Edition Posts
